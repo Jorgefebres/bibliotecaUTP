@@ -1,0 +1,33 @@
+﻿@model BIBLIOTECA.Models.Usuario
+
+<div class="CRUD">
+    <h3 class="CRUDTitulo">Editar Rol</h3>
+
+    <div class="form-horizontal">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.IdUsuario)
+            @Html.HiddenFor(model => model.IdPersona)
+            @Html.HiddenFor(model => model.NomUsuario)
+            @Html.HiddenFor(model => model.Contrasena)
+            @Html.HiddenFor(model => model.Recordar)
+            @Html.HiddenFor(model => model.Estado)
+
+
+            <table>
+                <tr>
+                    <td>@Html.LabelFor(model => model.IdRol, "Rol", htmlAttributes: new { @class = "control-label col-md-2" })</td>
+                    <td>@Html.DropDownList("idRol", null, htmlAttributes: new { @class = "form-control" })</td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="td-btn">
+                        <input type="submit" value="Editar" class="btn btn-success" />
+                    </td>
+                </tr>
+            </table>
+        }
+    </div>
+</div>

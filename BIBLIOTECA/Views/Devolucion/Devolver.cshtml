@@ -1,0 +1,87 @@
+﻿
+@model BIBLIOTECA.Models.ViewModels.VistaPrestamo
+
+@{
+    ViewBag.Title = "Devolucion";
+    Layout = "~/Views/Shared/_Panel.cshtml";
+}
+
+
+<h2 class="titulo">Devolución de libros</h2>
+
+<div class="contenido">
+    @using (Html.BeginForm("Devolver", "Devolucion", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="operaciones">
+            <div style="display: flex;">
+                <input type="text" data-autocomplete-url="@Url.Action("GetPersona")" onkeypress="return validar(event)" name="DNI" class="form-control miTextBox" required="required" placeholder="DNI de lector..." maxlength="8" , minlength="8" style="width: 120px;" />
+                <input type="submit" value="Buscar" class="btn btn-default">
+            </div>
+        </div>
+    }
+
+    <div class="datos table table-responsive">
+        <table id="tablaDeDatos" class="table table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetPrestamo.Libros.Titulo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetPrestamo.EstLibro)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetPrestamo.Prestamos.FecPrestamo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetPrestamo.FecDevolucion)
+                    </th>
+                    <th>
+                        Operaciones
+                    </th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @for (int i = 0; i < Model.ListaDetPrestamo.Count; i++)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => Model.ListaDetPrestamo[i].Libros.Titulo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => Model.ListaDetPrestamo[i].EstLibro)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => Model.ListaDetPrestamo[i].Prestamos.FecPrestamo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => Model.ListaDetPrestamo[i].FecDevolucion)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Devolver", "Devolver1", new { id = Model.ListaDetPrestamo[i].IdPrestamoDetalle }) |
+                            @Html.ActionLink("Sancionar", "Devolver","Sancion", new { id = Model.ListaDetPrestamo[i].IdPrestamoDetalle },new { })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@{ if (!string.IsNullOrEmpty(ViewBag.Error) || !string.IsNullOrEmpty(ViewBag.Message))
+    {
+        if (ViewBag.Error != null || !string.IsNullOrEmpty(ViewBag.Error))
+        {
+            <div class="alert alert-dismissible alert-danger" style="margin-bottom: 10px;"> <button type="button" class="close" data-dismiss="alert">&times;</button> <center><p>@ViewBag.Error</p></center></div>
+        }
+
+        if (ViewBag.Message != null || !string.IsNullOrEmpty(ViewBag.Message))
+        {
+            <div class="alert alert-dismissible alert-success" style="margin-bottom: 10px;"> <button type="button" class="close" data-dismiss="alert">&times;</button> <center><p>@ViewBag.Message</p></center></div>
+        }
+    }
+}

@@ -1,0 +1,125 @@
+﻿@model IEnumerable<BIBLIOTECA.Models.Libro>
+
+<body onload="Filtrar(10)">
+    <div id="busqueda">
+        <div class="container">
+            <div class="encabezado">
+                Libros por página
+                <select id="cbFiltrar" onchange="Filtrar(this.value)">
+                    <option value="2">2</option>
+                    <option value="5">5</option>
+                    <option value="10" selected>10</option>
+                    <option value="20">20</option>
+                    <option value="100">100</option>
+                </select>
+            </div>
+            <div class="busqueda">
+                <input id="txtFiltrar" type="search" placeholder="Escribe áquí para buscar...">
+                <button id="btnFiltrar" class="btn btn-info"><span class="glyphicon glyphicon-search"></span></button>
+            </div>
+        </div>
+    </div>
+
+    <div id="libros">
+        <div class="container container-fluid">
+            @if (Model.Count() > 0)
+            {
+                int i = 1;
+
+                <ul class="buscar">
+
+                @foreach (var item in Model)
+                {
+                    <li id="@i">
+                        <img src="~/Models/Image/Libros/@item.Caratula" alt="Carátula" />
+                        <center>
+                            <h4>@Html.DisplayFor(modelItem => item.Titulo)</h4>
+                            <p>
+                                <strong>Autor       : </strong>@Html.DisplayFor(modelItem => item.Autores.NombreCompleto)<br />
+                                <strong>Categoría   : </strong>@Html.DisplayFor(modelItem => item.Categorias.NomCategoria)<br />
+                                <strong>Editorial   : </strong>@Html.DisplayFor(modelItem => item.Editoriales.NomEditorial)<br />
+                            </p>
+                            @if (item.Disponibilidad)
+                            {
+                                @Html.ActionLink("Reservar", "AgregarLibroReserva", "Reserva", new { id = item.IdLibro }, new { @class = "btn btn-primary btn-sm" })
+                            }
+                            else
+                            {
+                                @*@Html.ActionLink("Reservar", "AgregarLibroReserva", new { id = item.IdLibro }, new { @class = "btn btn-primary btn-sm", @disabled = "disabled" })*@
+                            }
+
+                            <a class="btn btn-sm btn-info" data-toggle="modal" data-target="#cuadroModal" onclick="DetallarID(@Html.DisplayFor(modelItem => item.IdLibro))">Ver detalle</a>
+                        </center>
+                        @{i = i + 1;}
+                    </li>
+                }
+                </ul>
+            }
+            else
+            {
+                <div class="alert alert-dismissible alert-info" style="margin-bottom: 10px;">
+                    <button type="button" class="close" data-dismiss="alert">&times;</button>
+                    <center>No hay libros registrados...</center>
+                </div>
+            }
+        </div>
+    </div>
+
+    <!--MODAL-->
+
+    <div id="cuadroModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title"> </h4>
+                </div>
+                <div class="modal-body">
+                    <div id="contenidoModal">
+                        ...
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--SCRIPTS & LINKS-->
+
+    <script>
+
+        function Filtrar(Cantidad) {
+            $('.buscar li').hide();
+
+            for (var i = 1; i <= Cantidad ; i++) {
+                $('.buscar #' + i).show();
+            }
+        };
+
+        $(document).ready(function () {
+
+            (function ($) {
+
+                $('#txtFiltrar').keyup(function () {
+
+                    var rex = new RegExp($(this).val(), 'i');
+                    $('.buscar li').hide();
+                    $('.buscar li').filter(function () {
+                        return rex.test($(this).text());
+                    }).show();
+
+                })
+
+            }(jQuery));
+
+        });
+
+        function DetallarID(id) {
+            $("#contenidoModal").load("/Libro/Details/" + id);
+        };
+
+        function Limpiar() {
+            alert("Limpiar controles");
+        }
+
+    </script>
+</body>

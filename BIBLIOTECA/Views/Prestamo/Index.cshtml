@@ -1,0 +1,75 @@
+﻿@model IEnumerable<BIBLIOTECA.Models.PrestamoDetalle>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Panel.cshtml";
+}
+<h2 class="titulo">Préstamos</h2>
+<div class="contenido">
+    <div class="operaciones">
+        @using (Html.BeginForm("Index", "Prestamo", FormMethod.Post))
+        {
+            <div style="display: flex;">
+                <input type="text" data-autocomplete-url="@Url.Action("GetPersona")" onkeypress="return validar(event)" name="DNI" class="form-control miTextBox" required="required" placeholder="DNI de lector..." maxlength="8" , minlength="8" style="width: 120px;" />
+                <input type="submit" value="NUEVO PRESTAMO" id="Devolver" class="btn btn-success">
+            </div>
+        }
+        <a id="nuevo" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-print"></span>  IMPRIMIR</a>
+    </div>
+
+    <div class="datos table table-responsive">
+        <table id="tablaDeDatos" class="table table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Libros.ISBN)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Libros.Titulo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Prestamos.FecPrestamo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FecDevolucion)
+                    </th>
+                    <th>
+                        Prestado por
+                    </th>
+                    <th>
+                        DNI del Lector
+                    </th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @if (Model != null)
+            {
+                foreach (var item in Model)
+                {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Libros.ISBN)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Libros.Titulo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Prestamos.FecPrestamo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.FecDevolucion)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Prestamos.Usuarios.Personas.NombreCompleto)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Prestamos.Personas.Dni)
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

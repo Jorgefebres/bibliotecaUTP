@@ -1,0 +1,60 @@
+﻿@model BIBLIOTECA.Models.ViewModels.VistaReserva
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_PanelUsuario.cshtml";
+}
+<h2 class="titulo">Libros Reservados</h2>
+<div class="contenido">
+    <div class="operaciones">
+        @Html.ActionLink("Catálogo", "Index", "Catalogo", new { }, new { @class = "btn btn-success" })
+    </div>
+    <div class="datos table table-responsive">
+        <table id="tablaDeDatos" class="table table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetReserva.Libros.ISBN)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetReserva.Libros.Titulo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetReserva.Reservas.FecReserva)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetReserva.Reservas.FecRecojo)
+                    </th>
+                    <th>
+                        Opciones
+                    </th>
+                </tr>
+            </thead>
+
+            <tbody>
+               @for (int i = 0; i < Model.ListaDetReserva.Count; i++)
+               {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => Model.ListaDetReserva[i].Libros.ISBN)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => Model.ListaDetReserva[i].Libros.Titulo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => Model.ListaDetReserva[i].Reservas.FecReserva)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => Model.ListaDetReserva[i].Reservas.FecRecojo)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Cancelar", "CancelarBD", new { id = Model.ListaDetReserva[i].IdReservaDetalle })
+                            </td>
+                        </tr>
+                    }
+            </tbody>
+        </table>
+    </div>
+   
+</div>

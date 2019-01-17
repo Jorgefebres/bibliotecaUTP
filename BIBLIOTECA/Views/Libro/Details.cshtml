@@ -1,0 +1,70 @@
+﻿@model BIBLIOTECA.Models.Libro
+
+<div class="CRUD">
+    <h3 class="CRUDTitulo">Detalle de libro</h3>
+
+    <div class="form-horizontal">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <table>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Titulo)</td>
+                    <td>:   @Html.DisplayFor(model => model.Titulo)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Idioma)</td>
+                    <td>:   @Html.DisplayFor(model => model.Idioma)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.ISBN)</td>
+                    <td>:   @Html.DisplayFor(model => model.ISBN)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Autores.NombreCompleto)</td>
+                    <td>:   @Html.DisplayFor(model => model.Autores.NombreCompleto)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Categorias.NomCategoria)</td>
+                    <td>:   @Html.DisplayFor(model => model.Categorias.NomCategoria)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Editoriales.NomEditorial)</td>
+                    <td>:   @Html.DisplayFor(model => model.Editoriales.NomEditorial)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.NumEdicion)</td>
+                    <td>:   @Html.DisplayFor(model => model.NumEdicion)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Anio)</td>
+                    <td>:   @Html.DisplayFor(model => model.Anio)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.NumPaginas)</td>
+                    <td>:   @Html.DisplayFor(model => model.NumPaginas)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Estado)</td>
+                    <td>:   @Html.DisplayFor(model => model.Estado)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Caratula)</td>
+                    <td>:   @Html.DisplayFor(model => model.Caratula)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Disponibilidad)</td>
+                    <td>:   @Html.DisplayFor(model => model.Disponibilidad)</td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="td-btn">
+                        @*@Html.ActionLink("Regresar", "Index", new { }, new { @class = "btn btn-default" })*@
+                    </td>
+                </tr>
+            </table>
+        }
+    </div>
+</div>

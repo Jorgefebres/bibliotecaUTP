@@ -1,0 +1,76 @@
+﻿@model IEnumerable<BIBLIOTECA.Models.Sancion>
+
+@{
+    ViewBag.Title = "Sancionados";
+    Layout = "~/Views/Shared/_Panel.cshtml";
+}
+<h2 class="titulo">Sancionados</h2>
+<div class="contenido">
+    <div class="operaciones">
+        @*@using (Html.BeginForm("Index", "Prestamo", FormMethod.Post))
+        {
+            <div style="display: flex;">
+                <input type="text" data-autocomplete-url="@Url.Action("GetPersona")" onkeypress="return validar(event)" name="DNI" class="form-control miTextBox" required="required" placeholder="DNI de lector..." maxlength="8" , minlength="8" style="width: 120px;" />
+                <input type="submit" value="NUEVO PRESTAMO" id="Devolver" class="btn btn-success">
+            </div>
+        }*@
+        <a id="nuevo" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-print"></span>  IMPRIMIR</a>
+    </div>
+
+    <div class="datos table table-responsive">
+        <table id="tablaDeDatos" class="table table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Devoluciones.PrestamoDetalles.Prestamos.Personas.Dni)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Devoluciones.PrestamoDetalles.Prestamos.Personas.NombreCompleto)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FecInicio)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FecFin)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Descripcion)
+                    </th>
+                    
+                    <th>
+                        Sancionado por
+                    </th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @if (Model != null)
+            {
+                foreach (var item in Model)
+                {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Devoluciones.PrestamoDetalles.Prestamos.Personas.Dni)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Devoluciones.PrestamoDetalles.Prestamos.Personas.NombreCompleto)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.FecInicio)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.FecFin)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Descripcion)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Devoluciones.Usuarios.Personas.NombreCompleto)
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

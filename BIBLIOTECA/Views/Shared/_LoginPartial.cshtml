@@ -1,0 +1,29 @@
+﻿@using Microsoft.AspNet.Identity
+
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("Logout", "Usuario", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <ul class="nav navbar-nav navbar-right">
+            <li><i class="glyphicon-user"></i></li>
+            <li>
+                @{int idUser = BIBLIOTECA.Helper.SessionHelper.GetUser();
+                @Html.ActionLink(User.Identity.Name, "Perfil", "Usuario", new { id = idUser }, "")
+                }
+                 
+            </li>
+            <li>
+                <a href="javascript:document.getElementById('logoutForm').submit()">Cerrar sesión</a>
+            </li>
+        </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li><a href="#MODAL" onclick="Registrate()" class="btn btn-link" data-toggle="modal">Registrar</a></li>
+        <li><a href="#MODAL" onclick="IniciarSesion()" class="btn btn-link" data-toggle="modal">Iniciar Sesión</a></li>
+    </ul>
+}

@@ -1,0 +1,39 @@
+﻿@model BIBLIOTECA.Models.Usuario
+
+<div class="CRUD">
+    <h3 class="CRUDTitulo">Nuevo registro</h3>
+
+    <div class="form-horizontal">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <table>
+                <tr>
+                    <td>@Html.LabelFor(model => model.IdPersona, "DNI:")</td>
+                    <td><input type="text" onkeypress="return validar(event)" name="DNI" class="form-control" required="required" maxlength="8" , minlength="8"  autofocus/></td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(model => model.NomUsuario)</td>
+                    <td>@Html.EditorFor(model => model.NomUsuario, new { htmlAttributes = new { @class = "form-control", required = "required", maxlength = "", minlength = "3", onkeypress = "return validarTextNum(event)" } })</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(model => model.Contrasena)</td>
+                    <td>@Html.EditorFor(model => model.Contrasena, new { htmlAttributes = new { @class = "form-control", required = "required", maxlength = "8", minlength = "6" } })</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(model => model.ConfirmarContrasena)</td>
+                    <td>@Html.EditorFor(model => model.ConfirmarContrasena, new { htmlAttributes = new { @class = "form-control", required = "required",maxlength = "8", minlength = "6" } })</td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="td-btn">
+                        <input type="submit" value="Registrar" class="btn btn-success" />
+                    </td>
+                </tr>
+            </table>
+        }
+    </div>
+</div>
+

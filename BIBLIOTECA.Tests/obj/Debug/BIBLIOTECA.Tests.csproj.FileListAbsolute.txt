@@ -1,0 +1,617 @@
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ApplicationInsights.config
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\csc.exe
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\vbc.exe
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll.config
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.pdb
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.pdb
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.csprojResolveAssemblyReference.cache
+D:\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.pdb
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+D:\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll.config
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.pdb
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.pdb
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll.config
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.pdb
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.pdb
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll.config
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.pdb
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.pdb
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll.config
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.pdb
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.pdb
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.pdb
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ApplicationInsights.config
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\csc.exe
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\vbc.exe
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll.config
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.pdb
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.pdb
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.csprojResolveAssemblyReference.cache
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.pdb
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ApplicationInsights.config
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\csc.exe
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\vbc.exe
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll.config
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.pdb
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.pdb
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.csprojResolveAssemblyReference.cache
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.pdb
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.Support.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.Support.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.Shared.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\stdole.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ApplicationInsights.config
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\csc.exe
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\vbc.exe
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll.config
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.pdb
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.Support.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.Shared.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\stdole.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.pdb
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.Support.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.csprojResolveAssemblyReference.cache
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.dll
+D:\Scrum Biblioteca\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.pdb
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ApplicationInsights.config
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\csc.exe
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\vbc.exe
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll.config
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.pdb
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.Support.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.pdb
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.Support.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.csprojResolveAssemblyReference.cache
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.pdb
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll.config
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.Tests.pdb
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\BIBLIOTECA.pdb
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.csprojResolveAssemblyReference.cache
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA.Tests\obj\Debug\BIBLIOTECA.Tests.pdb

@@ -1,0 +1,72 @@
+﻿
+@model BIBLIOTECA.Models.ViewModels.VistaReserva
+
+@{
+    ViewBag.Title = "Reservas";
+    Layout = "~/Views/Shared/_PanelUsuario.cshtml";
+}
+
+<h2 class="titulo">Reserva  @ViewBag.Contar</h2>
+
+<p>@ViewBag.Message</p>
+<p>@ViewBag.Error</p>
+
+<div class="contenido">
+    <div class="operaciones">
+        @Html.ActionLink("Agregar libro", "Index", "Catalogo", new { }, new { @class = "btn btn-warning" })
+    </div>
+
+    <div class="datos table table-responsive">
+        <table id="tablaDeDatos" class="table table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetReserva.Libros.Titulo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetReserva.Reservas.FecRecojo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetReserva.Libros.Caratula)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DetReserva.Libros.Disponibilidad)
+                    </th>
+                    <th>
+                        Opciones
+                    </th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @for (int i = 0; i < Model.ListaDetReserva.Count; i++)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => Model.ListaDetReserva[i].Libros.Titulo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => Model.ListaDetReserva[i].Reservas.FecRecojo)
+                        </td>
+                        <td>
+                            <img width="50" height="50" src="~/Models/Image/Libros/@Model.ListaDetReserva[i].Libros.Caratula" />
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => Model.ListaDetReserva[i].Libros.Disponibilidad)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Cancelar", "Cancelar", new { id = Model.ListaDetReserva[i].Libros.IdLibro })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    @using (Html.BeginForm("NuevaReserva", "Reserva", FormMethod.Post))
+    {
+        <center>
+            <input type="submit" value="Guardar" id="NuevaReserva" class="btn btn-warning" />
+        </center>
+    }
+</div>

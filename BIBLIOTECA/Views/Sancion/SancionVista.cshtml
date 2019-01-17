@@ -1,0 +1,96 @@
+﻿@model BIBLIOTECA.Models.ViewModels.VistaSansion
+
+@{
+    ViewBag.Title = "Sanciones";
+    Layout = "~/Views/Shared/_Panel.cshtml";
+}
+
+<h2>Sanción</h2>
+
+@using (Html.BeginForm(Html.BeginForm()))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        
+        <div class="form-group">
+            @Html.LabelFor(model => model.VistaPrestamos.DetPrestamo.Libros.ISBN, htmlAttributes: new { @class = "control-label col-md-2"})
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VistaPrestamos.DetPrestamo.Libros.ISBN, new { htmlAttributes = new { @class = "form-control", @readonly = true } })
+                @Html.ValidationMessageFor(model => model.VistaPrestamos.DetPrestamo.Libros.ISBN, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.VistaPrestamos.DetPrestamo.Libros.Titulo, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VistaPrestamos.DetPrestamo.Libros.Titulo, new { htmlAttributes = new { @class = "form-control", @readonly = true } })
+                @Html.ValidationMessageFor(model => model.VistaPrestamos.DetPrestamo.Libros.Titulo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <!--======================================================================================================-->
+        <div class="form-group">
+            @Html.Label("Estado de prestamo:", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VistaPrestamos.DetPrestamo.EstLibro, new { htmlAttributes = new { @class = "form-control",@readonly = true } })
+                @Html.ValidationMessageFor(model => model.VistaPrestamos.DetPrestamo.EstLibro, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VistaPrestamos.DetPrestamo.Prestamos.FecPrestamo, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VistaPrestamos.DetPrestamo.Prestamos.FecPrestamo, new { htmlAttributes = new { @class = "form-control", @readonly = true } })
+                @Html.ValidationMessageFor(model => model.VistaPrestamos.DetPrestamo.Prestamos.FecPrestamo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VistaPrestamos.DetPrestamo.FecDevolucion, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VistaPrestamos.DetPrestamo.FecDevolucion, new { htmlAttributes = new { @class = "form-control", @readonly = true } })
+                @Html.ValidationMessageFor(model => model.VistaPrestamos.DetPrestamo.FecDevolucion, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <!--======================================================================================================-->
+        <div class="form-group">
+            @Html.LabelFor(model => model.Sanciones.Descripcion, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Sanciones.Descripcion, new { htmlAttributes = new { @class = "form-control", @required = true } })
+                @Html.ValidationMessageFor(model => model.Sanciones.Descripcion, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Sanciones.Estado, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Sanciones.Estado, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Sanciones.Estado, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Sanciones.FecInicio, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Sanciones.FecInicio, new { htmlAttributes = new { @class = "form-control", @required = true } })
+                @Html.ValidationMessageFor(model => model.Sanciones.FecInicio, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Cantidad días", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="text" class="form-control " onkeypress="return validar(event)" name ="dias" required maxlength="3">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Sancionar" class="" />
+            </div>
+        </div>
+    </div>
+}

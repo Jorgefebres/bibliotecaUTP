@@ -1,0 +1,1292 @@
+D:\BIBLIOTECA\BIBLIOTECA\bin\ApplicationInsights.config
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+D:\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+D:\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+D:\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+D:\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+D:\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+D:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+D:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+D:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+D:\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\ApplicationInsights.config
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\Users\Antoni\Documents\Visual Studio 2015\Projects\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\ApplicationInsights.config
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+C:\Users\Others\Desktop\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\ApplicationInsights.config
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+C:\Users\Others\Desktop\ \BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\ApplicationInsights.config
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+D:\08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\ApplicationInsights.config
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\Users\Others\Desktop\ \[Biblioteca]\13-11-2016 08_25_00_p.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\ApplicationInsights.config
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+C:\Users\Others\Desktop\ \[Biblioteca]\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\ApplicationInsights.config
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+D:\15-11-2016 12_00_00_a.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\ApplicationInsights.config
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportSource.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.Shared.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ReportViewer.WebForms.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\stdole.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.SqlServer.Types.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+D:\19-11-2016 04_12_00_a.m\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ApplicationInsights.config
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportSource.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.Shared.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\stdole.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.SqlServer.Types.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.cache
+D:\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.compiled
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportSource.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.Shared.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ReportViewer.WebForms.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\stdole.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.SqlServer.Types.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.cache
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.compiled
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+D:\_____\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportSource.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.Shared.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ReportViewer.WebForms.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\stdole.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.SqlServer.Types.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.cache
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.compiled
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+D:\_____\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportSource.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.Shared.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ReportViewer.WebForms.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\stdole.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.SqlServer.Types.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.cache
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.compiled
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+D:\PROYECTOS\SCRUM\Scrum Biblioteca.0.1\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportSource.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.Shared.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ReportViewer.WebForms.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\stdole.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.cache
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.compiled
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+D:\PROYECTOS\SCRUM\SISTEMA DE BIBLIOTECA - SRCUM\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\csc.exe
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\vbc.exe
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll.config
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\BIBLIOTECA.pdb
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportSource.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.Shared.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\WebGrease.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\stdole.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.SqlServer.Types.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\EntityFramework.SqlServer.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.Web.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Helpers.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Mvc.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Optimization.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Razor.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.WebPages.Razor.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Antlr3.Runtime.pdb
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\Newtonsoft.Json.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Net.Http.Formatting.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\System.Web.Http.WebHost.xml
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Helpers.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Mvc.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.Razor.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csprojResolveAssemblyReference.cache
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.cache
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\obj\Debug\RdlCompile.compiled
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.dll
+C:\Users\witch\Desktop\CONSTRUCCION PROYECTOS\SISTEMA DE BIBLIOTECA - SCRUM\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb

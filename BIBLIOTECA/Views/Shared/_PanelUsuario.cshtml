@@ -1,0 +1,94 @@
+﻿@{
+    BIBLIOTECA.Controllers.Consultas cons = new BIBLIOTECA.Controllers.Consultas();
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script>
+        $(document).ready(menuAcordeon);
+
+        function menuAcordeon()
+        {
+            $("nav div ul li p").click(function () {
+                $("nav div ul li ul").slideUp();
+
+                if (!$(this).next().is(":visible")) {
+                    $(this).next().slideDown();
+                }
+            })
+        }
+    </script>
+</head>
+
+<body>
+    <nav>
+        <div id="informacion">
+            <h4>
+                @if (Request.IsAuthenticated)
+                {
+                    int idUser = BIBLIOTECA.Helper.SessionHelper.GetUser();
+                    @Html.ActionLink(User.Identity.Name, "Perfil", "Usuario", new { id = idUser }, new { @class = "User" })
+                }
+            </h4>
+            <center>
+                <img src="~/Resources/images/imac.png" alt="Image" />
+            </center>
+            <h4>LECTOR</h4>
+        </div>
+        <div id="acordeon">
+            <ul>
+                <li>
+                    <p><span class="glyphicon glyphicon-home"></span>Inicio <span class="glyphicon glyphicon-triangle-bottom"></span></p>
+                    <ul>
+                        <li><a id="inicio" href="/PanelUsuario/Index">Dashboard</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <p><span class="glyphicon glyphicon-tasks"></span>Operaciones <span class="glyphicon glyphicon-triangle-bottom"></span></p>
+                    <ul>
+                        <li>@Html.ActionLink("Catálogo", "Index", "Catalogo")</li>
+
+                     @{ 
+                         int id = BIBLIOTECA.Helper.SessionHelper.GetUser();
+                        <li><a href="/Reserva/Index" id="btnReservas">Mis Reservas<span class="badge">@cons.librosReservados(id)</span></a></li>
+                     }
+                        </ul>
+                </li>
+                <li>
+                    <p><span class="glyphicon glyphicon-pencil"></span>Mantenimiento <span class="glyphicon glyphicon-triangle-bottom"></span></p>
+                    <ul>
+                        @if (Request.IsAuthenticated)
+                        {
+                             int idUser = BIBLIOTECA.Helper.SessionHelper.GetUser();
+                            <li>@Html.ActionLink("Perfil", "Perfil", "Usuario", new { id = idUser }, new { @class = "User" })</li>
+                        }
+                    </ul>
+                </li>
+                <li>
+                    <p><span class="glyphicon glyphicon-log-out"></span>Salir <span class="glyphicon glyphicon-triangle-bottom"></span></p>
+                    <ul>
+                        @using (Html.BeginForm("Logout", "Usuario", FormMethod.Post, new { id = "logoutForm" }))
+                        {
+                            <li><a class="Opciones" href="javascript:document.getElementById('logoutForm').submit()">Salir</a></li>
+                        }
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <section>
+        @RenderBody()
+    </section>
+</body>
+</html>

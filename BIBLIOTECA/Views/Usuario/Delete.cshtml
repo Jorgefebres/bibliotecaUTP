@@ -1,0 +1,54 @@
+﻿@model BIBLIOTECA.Models.Usuario
+
+@{
+    ViewBag.Title = "Dehabilitar usuario";
+}
+
+<h3 class="text-warning">Habilitar o deshabilitar usuario</h3>
+
+<div class="CRUD">
+    <div class="form-horizontal">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(model => model.IdUsuario)
+            @Html.HiddenFor(model => model.IdPersona)
+            @Html.HiddenFor(model => model.IdRol)
+            @Html.HiddenFor(model => model.Contrasena)
+
+            <table>
+                <tr>
+                    <td>@Html.Label("DNI", htmlAttributes: new { @class = "control-label col-md-2" })</td>
+                    <td>@Html.EditorFor(model => model.Personas.Dni, new { htmlAttributes = new { @class = "form-control", ReadOnly = true } })</td>
+                </tr>
+                <tr>
+                    <td>@Html.Label("Usuario", htmlAttributes: new { @class = "control-label col-md-2" })</td>
+                    <td>@Html.EditorFor(model => model.NomUsuario, new { htmlAttributes = new { @class = "form-control", ReadOnly = true } })</td>
+                </tr>
+                <tr>
+                    <td>@Html.Label("Nombre", htmlAttributes: new { @class = "control-label col-md-2" })</td>
+                    <td>@Html.EditorFor(model => model.Personas.NombreCompleto, new { htmlAttributes = new { @class = "form-control", ReadOnly = true } })</td>
+                </tr>
+
+                <tr>
+                    <td>@Html.Label("Estado", htmlAttributes: new { @class = "control-label col-md-2" })</td>
+                    <td>
+                        <div class="checkbox">
+                            @Html.EditorFor(model => model.Estado)   (habilitar o deshabilitar)
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" value="Guardar" class="btn btn-success" />
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        }
+    </div>
+</div>
+

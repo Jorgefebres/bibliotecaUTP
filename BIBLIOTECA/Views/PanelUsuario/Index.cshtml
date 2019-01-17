@@ -1,0 +1,41 @@
+﻿@model IEnumerable<BIBLIOTECA.Models.PrestamoDetalle>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_PanelUsuario.cshtml";
+}
+
+<h2 class="titulo">Bienvenido(a) al panel de Lector...</h2>
+<h2 >Libros leidos por mi</h2>
+<div id="libros">
+    <div class="container container-fluid">
+        @if (Model.Count() > 0)
+            {
+            <ul>
+
+                @foreach (var item in Model)
+                {
+                    <li id="">
+                        <img src="~/Models/Image/Libros/@item.Libros.Caratula" alt="Carátula" />
+                        <center>
+                            <h4>@Html.DisplayFor(modelItem => item.Libros.Titulo)</h4>
+                            <p>
+                                <strong>Autor       : </strong>@Html.DisplayFor(modelItem => item.Libros.Autores.NombreCompleto)<br />
+                                <strong>Categoría   : </strong>@Html.DisplayFor(modelItem => item.Libros.Categorias.NomCategoria)<br />
+                                <strong>Editorial   : </strong>@Html.DisplayFor(modelItem => item.Libros.Editoriales.NomEditorial)<br />
+                            </p>
+                            <a class="btn btn-sm btn-info" data-toggle="modal" data-target="#cuadroModal" onclick="DetallarID(@Html.DisplayFor(modelItem => item.IdLibro))">Ver detalle</a>
+                        </center>
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <div class="alert alert-dismissible alert-info" style="margin-bottom: 10px;">
+                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                <center>Aun no hay libros leidos por mi?</center>
+            </div>
+        }
+    </div>
+</div>

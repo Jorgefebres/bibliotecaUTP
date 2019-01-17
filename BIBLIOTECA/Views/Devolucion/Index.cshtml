@@ -1,0 +1,71 @@
+﻿@model IEnumerable<BIBLIOTECA.Models.Devolucion>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Panel.cshtml";
+}
+<h2 class="titulo">Libros Devueltos</h2>
+<div class="contenido">
+    <div class="operaciones">
+        @Html.ActionLink("Devolver Libros", "Devolver", "Devolucion", new { @class = "btn btn-success" })
+        <a id="nuevo" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-print"></span>  IMPRIMIR</a>
+    </div>
+
+    <div class="datos table table-responsive">
+        <table id="tablaDeDatos" class="table table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.PrestamoDetalles.Libros.ISBN)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.PrestamoDetalles.Libros.Titulo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.PrestamoDetalles.Prestamos.FecPrestamo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FecDevolcion)
+                    </th>
+                    <th>
+                        DNI del Lector
+                    </th>
+                    <th>
+                        Recepcionado por
+                    </th>
+                   
+                </tr>
+            </thead>
+
+            <tbody>
+                @if (Model != null)
+            {
+                foreach (var item in Model)
+                {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.PrestamoDetalles.Libros.ISBN)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.PrestamoDetalles.Libros.Titulo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.PrestamoDetalles.Prestamos.FecPrestamo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.FecDevolcion)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.PrestamoDetalles.Prestamos.Personas.Dni)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Usuarios.Personas.NombreCompleto)
+                            </td>
+
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,93 @@
+﻿@{ 
+    BIBLIOTECA.Controllers.Consultas cons = new BIBLIOTECA.Controllers.Consultas();
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script>
+        $(document).ready(menuAcordeon);
+
+        function menuAcordeon() {
+            $("nav div ul li p").click(function () {
+                $("nav div ul li ul").slideUp();
+
+                if (!$(this).next().is(":visible")) {
+                    $(this).next().slideDown();
+                }
+            })
+        }
+    </script>
+</head>
+
+<body>
+    <nav>
+        <div id="informacion">
+            <h4>
+                @if (Request.IsAuthenticated)
+                {
+                    int idUser = BIBLIOTECA.Helper.SessionHelper.GetUser();
+                    @Html.ActionLink(User.Identity.Name, "Perfil", "Usuario", new { id = idUser }, new { @class = "User" })
+                }
+            </h4>
+            <center>
+                <img src="~/Resources/images/imac.png" alt="Image" />
+            </center>
+            <h4>BIBLIOTECARIO</h4>
+        </div>
+        <div id="acordeon">
+            <ul>
+                <li>
+                    <p><span class="glyphicon glyphicon-home"></span>Inicio <span class="glyphicon glyphicon-triangle-bottom"></span></p>
+                    <ul>
+                        <li><a id="inicio" href="/Dashboard/Index">Dashboard</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <p><span class="glyphicon glyphicon-tasks"></span>Mantenimiento <span class="glyphicon glyphicon-triangle-bottom"></span></p> 
+                    <ul>
+                        <li>@Html.ActionLink("Autores", "Index", "Autor")</li>
+                        <li>@Html.ActionLink("Categorías", "Index", "Categoria")</li>
+                        <li>@Html.ActionLink("Editoriales", "Index", "Editorial")</li>
+                        <li>@Html.ActionLink("Libros", "Index", "Libro")</li>
+                    </ul>
+                </li>
+                <li><!--class="activo"-->
+                    <p><span class="glyphicon glyphicon-transfer"></span>Operaciones <span class="glyphicon glyphicon-triangle-bottom"></span></p>
+                    <ul>
+                        <li><a href="/Prestamo/Index" id="btnReservas">Préstamos</a></li>
+                        <li><a href="/PrestarReserva/Index" id="btnReservas">Reservas <span class="label label-info">@cons.ContarReservas()</span></a></li>
+                        <li>@Html.ActionLink("Devoluciones", "Index", "Devolucion")</li>
+                        <li><a href="/Sancion/Index" id="btnReservas">Sanciones </a></li>
+                    </ul>
+                </li>
+                <li>
+                    <p><span class="glyphicon glyphicon-log-out"></span>Salir <span class="glyphicon glyphicon-triangle-bottom"></span></p>
+                    <ul>
+                        @using (Html.BeginForm("Logout", "Usuario", FormMethod.Post, new { id = "logoutForm" }))
+                        {
+                            <li><a class="Opciones" href="javascript:document.getElementById('logoutForm').submit()">Salir</a></li>
+                        }
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <section>
+        @RenderBody()
+    </section>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+﻿@model BIBLIOTECA.Models.Categoria
+
+<div class="CRUD">
+    <h3 class="CRUDTitulo">Detalles de registro</h3>
+
+    <div class="form-horizontal">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <table>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.NomCategoria)</td>
+                    <td>:   @Html.DisplayFor(model => model.NomCategoria)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Descripcion)</td>
+                    <td>:   @Html.DisplayFor(model => model.Descripcion)</td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="td-btn">
+                        @Html.ActionLink("Regresar", "Index", new { }, new { @class = "btn btn-default" })
+                    </td>
+                </tr>
+            </table>
+        }
+    </div>
+</div>

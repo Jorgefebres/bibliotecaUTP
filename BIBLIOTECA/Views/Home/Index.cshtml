@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Biblioteca";
+}
+
+<section id="BloqueSuperior">
+
+    <div class="centrado">
+        @{
+            var mensaje = Html.ValidationSummary(true);
+            if (mensaje != null)
+            {
+                <div class="alert alert-danger">
+                    <a href="#" class="close" data-dismiss="alert">&times;</a>
+                    <strong>Error!</strong><h2> @Html.ValidationSummary(true)</h2>
+                </div>
+            }
+        }
+        <h3>Bienvenidos al</h3>
+        <h2>Sistema de Biblioteca</h2><br />
+        @Html.ActionLink("Ver catálogo", "Index", "Catalogo", new { }, new { @class = "btn btn-success" })
+    </div>
+
+</section>
+
+
+<section id="BloqueInferior">
+    <div class="centrado">
+        <p><strong>Development Team</strong></p>
+        <p>Franklin Antoni Quispe Luizar</p>
+        <p>Luis Larota Ccoa</p>
+        <p>Jorge Febres</p>
+    </div>
+</section>
+
+<!--VENTANAS MODALES-->
+<div class="modal fade" id="MODAL" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" data-backdrop="static" data-keyboard="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Usuario</h4>
+            </div>
+            <div class="modal-body">
+                <div id="modal-content">
+                    Cargando.......
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

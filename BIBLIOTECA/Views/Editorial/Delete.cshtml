@@ -1,0 +1,42 @@
+﻿@model BIBLIOTECA.Models.Editorial
+
+<div class="CRUD">
+    <h3 class="CRUDTitulo">¿Desea eliminar este registro?</h3>
+
+    <div class="form-horizontal">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <table>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.NomEditorial)</td>
+                    <td>:   @Html.DisplayFor(model => model.NomEditorial)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Pais)</td>
+                    <td>:   @Html.DisplayFor(model => model.Pais)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Ciudad)</td>
+                    <td>:   @Html.DisplayFor(model => model.Ciudad)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Email)</td>
+                    <td>:   @Html.DisplayFor(model => model.Email)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Url)</td>
+                    <td>:   @Html.DisplayFor(model => model.Url)</td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="td-btn">
+                        <input type="submit" value="Eliminar" class="btn btn-danger" />
+                    </td>
+                </tr>
+            </table>
+        }
+    </div>
+</div>

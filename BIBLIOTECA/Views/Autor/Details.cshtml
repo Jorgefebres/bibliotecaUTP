@@ -1,0 +1,42 @@
+﻿@model BIBLIOTECA.Models.Autor
+
+<div class="CRUD">
+    <h3 class="CRUDTitulo">Detalles de registro</h3>
+
+    <div class="form-horizontal">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <table>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Apellidos)</td>
+                    <td>:   @Html.DisplayFor(model => model.Apellidos)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Nombres)</td>
+                    <td>:   @Html.DisplayFor(model => model.Nombres)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Sexo)</td>
+                    <td>:   @Html.DisplayFor(model => model.Sexo)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.FecNacimiento)</td>
+                    <td>:   @Html.DisplayFor(model => model.FecNacimiento)</td>
+                </tr>
+                <tr>
+                    <td>@Html.DisplayNameFor(model => model.Pais)</td>
+                    <td>:   @Html.DisplayFor(model => model.Pais)</td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="td-btn">
+                        @Html.ActionLink("Regresar", "Index", new { }, new { @class = "btn btn-default" })
+                    </td>
+                </tr>
+            </table>
+        }
+    </div>
+</div>

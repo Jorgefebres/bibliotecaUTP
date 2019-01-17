@@ -1,0 +1,132 @@
+﻿@model BIBLIOTECA.Models.ViewModels.VistaPrestamo
+
+@{
+    BIBLIOTECA.Controllers.Consultas cons = new BIBLIOTECA.Controllers.Consultas();
+    ViewBag.Title = "Prestamo";
+    Layout = "~/Views/Shared/_Panel.cshtml";
+}
+
+<h2 class="titulo">Préstamo</h2>
+
+<div class="contenido">
+    @using (Html.BeginForm("NuevoPrestamo", "Prestamo", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <div class="operaciones">
+            @Html.ActionLink("Agregar libro", "AgregarLibro", new { }, new { @class = "btn btn-success" })
+            <div style="display: flex;">
+                @if (Model.Personas.Dni != null)
+                {
+                    @Html.TextBoxFor(model=> model.Personas.Dni,  new { @class = "form-control", @readonly = true })
+                    <span class="badge">@cons.librosPrestados(Model.Personas.IdPersona)</span>
+                }
+            </div>
+        </div>
+
+        <div class="datos table table-responsive">
+            <table id="tablaDeDatos" class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.DetPrestamo.Libros.Titulo)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.DetPrestamo.EstLibro)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.DetPrestamo.FecDevolucion)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.DetPrestamo.Libros.Caratula)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.DetPrestamo.Libros.Disponibilidad)
+                        </th>
+                        <th>
+                            Mantenimiento
+                        </th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @if (Model.ListaDetPrestamo != null)
+                    {
+                        for (int i = 0; i < Model.ListaDetPrestamo.Count; i++)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => Model.ListaDetPrestamo[i].Libros.Titulo)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => Model.ListaDetPrestamo[i].EstLibro)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => Model.ListaDetPrestamo[i].FecDevolucion)
+                                </td>
+                                <td>
+                                    <img width="50" height="50" src="~/Models/Image/Libros/@Model.ListaDetPrestamo[i].Libros.Caratula" />
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => Model.ListaDetPrestamo[i].Libros.Disponibilidad)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("Cancelar", "Cancelar", new { id = Model.ListaDetPrestamo[i].Libros.IdLibro })
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <div class="operaciones">
+            <input type="submit" value=" GUARDAR " id="Devolver" class="btn btn-success">
+        </div>
+    }
+</div>
+
+<!--        ERRORES?          -->
+
+@if (ViewBag.Error != null || !string.IsNullOrEmpty(ViewBag.Error))
+{
+    <div class="alert alert-dismissible alert-danger" style="margin-bottom: 10px;"> <button type="button" class="close" data-dismiss="alert">&times;</button> <center><p>@ViewBag.Error</p></center></div>
+}
+
+@if (ViewBag.Message != null || !string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-dismissible alert-success" style="margin-bottom: 10px;"> <button type="button" class="close" data-dismiss="alert">&times;</button> <center><p>@ViewBag.Message</p></center></div>
+}
+
+<!--        VENTANA MODAL           -->
+
+<div class="modal fade" id="Creates" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Agregar Libro</h4>
+            </div>
+            <div class="modal-body">
+                <div id="modal-libros">
+                    ...
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--SCRIPTS & LINKS-->
+
+<!--<link rel="stylesheet" href="~/Resources/css/jquery.dataTables.css" />
+<script src="~/Resources/js/jquery.js"></script>
+<script src="~/Resources/js/jquery.dataTables.js"></script>
+
+<script>
+
+    $(document).ready(function () {
+        $('#tablaDeDatos').DataTable();
+    });
+
+</script>-->
+
+

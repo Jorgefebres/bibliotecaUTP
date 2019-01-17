@@ -1,0 +1,63 @@
+﻿@model IEnumerable<BIBLIOTECA.Models.ReservaDetalle>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Panel.cshtml";
+}
+<h2 class="titulo">Libros Reservados</h2>
+<div class="contenido">
+    <div class="operaciones">
+        @Html.ActionLink("Prestamo de Libros Reservados", "PrestarReserva", "PrestarReserva", new { }, new { @class = "btn btn-success" })
+        <a id="nuevo" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-print"></span>  IMPRIMIR</a>
+    </div>
+    <div class="datos table table-responsive">
+        <table id="tablaDeDatos" class="table table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Libros.ISBN)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Libros.Titulo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Reservas.FecReserva)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Reservas.FecRecojo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Reservas.Usuarios.Personas.Dni)
+                    </th>
+
+                </tr>
+            </thead>
+
+            <tbody>
+                @if (Model != null)
+            {
+                foreach (var item in Model)
+                {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Libros.ISBN)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Libros.Titulo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Reservas.FecReserva)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Reservas.FecRecojo)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Reservas.Usuarios.Personas.Dni)
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
